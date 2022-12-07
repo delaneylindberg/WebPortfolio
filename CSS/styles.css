@@ -55,8 +55,9 @@ div.images {
   text-align: center;}
 
 
-id.logo {
-  border: 0px;}
+img.logo {
+  border: 0px none;
+  padding-left: 0px;}
 
 
 h3 {
